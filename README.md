@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Prakash V S and I made a website ToDo App using React. It's from the Guvi-Zen class Roadmap, specifically React- Day -5: React Hooks. This project is my first time working with React Hooks!</p>
+<p align="left">My name is Abirami and I made a website ToDo App using React. Specifically React- Day -5: React Hooks. This project is my first time working with React Hooks!</p>
 
 ###
 
@@ -50,14 +50,8 @@
 
 ###
 
-<h2 align="left">Screen shoot</h2>
 
-###
 
-<img
-  style="border: 1px solid rgba(100, 100, 100, 1); border-radius: 4px; box-shadow: 0px 0px 39px 14px rgba(255, 255, 255, 1);"
-  align="left"
-  src="https://github.com/Prakash-V-S/ToDo-List-ReactJS/assets/141955456/bb4d7e0c-82f6-4e01-b827-f87e44e78c92"
-/>
+
 
 ###
